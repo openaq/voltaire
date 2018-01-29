@@ -1,0 +1,5 @@
+{
+    "bucket": "openaq-fetches",
+    "key": "realtime/2018-01-28/1517147734.ndjson",
+    "expression": "SELECT * from S3Object s WHERE s.country = 'MN'"
+}

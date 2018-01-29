@@ -1,0 +1,8 @@
+{
+  "name": "voltaire",
+  "description": "S3 Select access to OpenAQ data",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::470049585876:role/voltaire_lambda_function",
+  "environment": {}
+}

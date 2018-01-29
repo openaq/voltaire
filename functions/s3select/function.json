@@ -1,0 +1,5 @@
+{
+    "description": "s3select from openaq-fetches bucket",
+    "runtime": "python3.6",
+    "timeout": 300
+}
