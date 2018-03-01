@@ -1,0 +1,4 @@
+{
+    "description": "Query openaq data with Athena",
+    "runtime": "python3.6"
+}
